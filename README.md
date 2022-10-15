@@ -1,2 +1,4 @@
 # C
-# C++ (thoughts on)
+# C++
+
+thoughts
